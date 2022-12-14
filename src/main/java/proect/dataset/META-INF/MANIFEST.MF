@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: proect.Main
+Class-Path: curvesapi-1.05.jar poi-4.0.1.jar commons-math3-3.6.1.jar xml
+ beans-3.0.2.jar commons-compress-1.18.jar commons-codec-1.11.jar common
+ s-collections4-4.2.jar AbsoluteLayout-SNAPSHOT.jar poi-ooxml-schemas-4.
+ 0.1.jar poi-ooxml-4.0.1.jar
+
